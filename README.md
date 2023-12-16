@@ -4,7 +4,7 @@
 
 Simple To Do List React Application.
 
-Deployed on Vercel - [Assignment](link)
+Deployed on Netlify - [Assignment](https://bawejamedia-task.netlify.app/)
 
 ## To Run the Project Locally
 
